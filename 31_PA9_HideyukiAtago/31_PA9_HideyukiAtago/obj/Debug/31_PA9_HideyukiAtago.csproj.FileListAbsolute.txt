@@ -1,0 +1,10 @@
+C:\Users\hideytuki Atago\Desktop\31_PA9_HideyukiAtago\31_PA9_HideyukiAtago\31_PA9_HideyukiAtago\bin\Debug\31_PA9_HideyukiAtago.exe.config
+C:\Users\hideytuki Atago\Desktop\31_PA9_HideyukiAtago\31_PA9_HideyukiAtago\31_PA9_HideyukiAtago\bin\Debug\31_PA9_HideyukiAtago.exe
+C:\Users\hideytuki Atago\Desktop\31_PA9_HideyukiAtago\31_PA9_HideyukiAtago\31_PA9_HideyukiAtago\bin\Debug\31_PA9_HideyukiAtago.pdb
+C:\Users\hideytuki Atago\Desktop\31_PA9_HideyukiAtago\31_PA9_HideyukiAtago\31_PA9_HideyukiAtago\obj\Debug\31_PA9_HideyukiAtago.csprojAssemblyReference.cache
+C:\Users\hideytuki Atago\Desktop\31_PA9_HideyukiAtago\31_PA9_HideyukiAtago\31_PA9_HideyukiAtago\obj\Debug\_31_PA9_HideyukiAtago.Form1.resources
+C:\Users\hideytuki Atago\Desktop\31_PA9_HideyukiAtago\31_PA9_HideyukiAtago\31_PA9_HideyukiAtago\obj\Debug\_31_PA9_HideyukiAtago.Properties.Resources.resources
+C:\Users\hideytuki Atago\Desktop\31_PA9_HideyukiAtago\31_PA9_HideyukiAtago\31_PA9_HideyukiAtago\obj\Debug\31_PA9_HideyukiAtago.csproj.GenerateResource.cache
+C:\Users\hideytuki Atago\Desktop\31_PA9_HideyukiAtago\31_PA9_HideyukiAtago\31_PA9_HideyukiAtago\obj\Debug\31_PA9_HideyukiAtago.csproj.CoreCompileInputs.cache
+C:\Users\hideytuki Atago\Desktop\31_PA9_HideyukiAtago\31_PA9_HideyukiAtago\31_PA9_HideyukiAtago\obj\Debug\31_PA9_HideyukiAtago.exe
+C:\Users\hideytuki Atago\Desktop\31_PA9_HideyukiAtago\31_PA9_HideyukiAtago\31_PA9_HideyukiAtago\obj\Debug\31_PA9_HideyukiAtago.pdb
